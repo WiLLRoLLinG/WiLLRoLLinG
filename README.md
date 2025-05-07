@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WiLLRoLLinG
-- 🌱 I’m currently learning React.Js & UI/UX design, and Studying CE.
-- 📫 Contact me: esmaeleimohammad@gmail.com
+- 🌱 I’m currently learning Next & Nuxt, and Studying CE.
+- 📫 Contact me: mailtosmileymohammad@gmail.com
 
 <!---
 Mohammad Esmaeili
